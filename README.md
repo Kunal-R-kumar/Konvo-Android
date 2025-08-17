@@ -90,17 +90,17 @@ This project is open for enhancements. You can contribute by:
 
 ---
 
-## **Contact**
-
-* **Email:** [kkumar021104@gmail.com](mailto:kkumar021104@gmail.com)
-* **Project Owner:** Kunal
+## **Logo/Icon**
 
 <img width="100" height="100" alt="playstore" src="https://github.com/user-attachments/assets/6ebd5b49-19c2-4c24-bc82-9d1bfbd6a455" />
 <br>
 logo/icon
 
 ---
+## Safety
+<img width="250" height="600" alt="Konvo" src="https://github.com/user-attachments/assets/6ac5bfcd-ea65-4ca2-a235-d1dc53585ab2"/>
 
+---
 
 # Another screenshots for demonstartion
 <img width="600" height="400" alt="Konvo" src="https://github.com/user-attachments/assets/8f218be8-1f8b-406e-a833-212c5f9afda6" />  
@@ -118,7 +118,10 @@ logo/icon
 <img width="250" height="600" alt="Konvo" src="https://github.com/user-attachments/assets/61971e4c-17e7-460c-ab32-4a83065edf96"/>
 <img width="250" height="600" alt="Konvo" src="https://github.com/user-attachments/assets/b79dec8e-632e-4f35-b5c0-b01de0622fcb"/>
 <img width="250" height="600" alt="Konvo" src="https://github.com/user-attachments/assets/572685eb-a813-4b49-9619-b75e8c30f1ab"/>
-<img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/e09beef7-6b80-4111-b8e9-cdf5aed27a6d" />
-
+<img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/e09beef7-6b80-4111-b8e9-cdf5aed27a6d"/>
 <img width="250" height="600" alt="image" src="https://github.com/user-attachments/assets/1138cc65-5802-407c-843c-0f8e42502021"/>
 
+---
+## **Contact**
+* **Email:** [kkumar021104@gmail.com](mailto:kkumar021104@gmail.com)
+* **Project Owner:** Kunal
