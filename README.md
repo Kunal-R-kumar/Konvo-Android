@@ -1,5 +1,5 @@
 # Konvo – WhatsApp Clone Android App
-APK Drive Link: ([https://drive.google.com/file/d/1LtgEdDsvX87sLLwIe1mHDVDunzGFGyn5/view?usp=drive_link](https://drive.google.com/file/d/1LtgEdDsvX87sLLwIe1mHDVDunzGFGyn5/view?usp=drive_link))
+APK Drive Link: ([https://drive.google.com/file/d/1LtgEdDsvX87sLLwIe1mHDVDunzGFGyn5/view?usp=sharing](https://drive.google.com/file/d/1LtgEdDsvX87sLLwIe1mHDVDunzGFGyn5/view?usp=sharing))
 
 **Author:** Kunal <br>
 **Email:** [kkumar021104@gmail.com](mailto:kkumar021104@gmail.com)<br>
